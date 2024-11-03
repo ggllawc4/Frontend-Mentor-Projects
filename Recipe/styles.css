@@ -156,7 +156,7 @@ main {
 }
 
 .omelette-ingredients {
-  padding-top: 1rem;
+  padding-top: 1.5rem;
   border-bottom: 1.3px solid hsla(32, 10%, 34%, 0.2);
 }
 
@@ -188,7 +188,7 @@ main {
 }
 
 .omelette-instructions {
-  padding-top: 1rem;
+  padding-top: 1.5rem;
   border-bottom: 1.3px solid hsla(30, 10%, 34%, 0.2);
 }
 
@@ -221,7 +221,7 @@ main {
 
 .nutritional-value {
   font-size: 1em;
-  padding-top: 1rem;
+  padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
 
