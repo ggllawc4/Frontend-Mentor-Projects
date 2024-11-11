@@ -7,3 +7,5 @@ This repository is dedicated soley to projects created as part of Frontend Mento
 
 ## Live Demo of Projects
 - [Omelette Recipe](https://ggllawc4.github.io/Frontend-Mentor-Projects/Recipe/index.html)
+
+- [Product preview card component](https://ggllawc4.github.io/Frontend-Mentor-Projects/product-preview-card-component-main/index.html)
