@@ -3,7 +3,7 @@
 ##  Screenshot of the challenge I did
 
 ![Screenshot Desktop](./New-screenshot.jpg)
-![Sceenshot Mobile](./Mobile-new-screenshot.png)
+![Screenshot Mobile](./Recipe-mobile.png)
 
 ## Welcome! 👋
 

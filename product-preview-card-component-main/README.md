@@ -3,6 +3,7 @@
 ## Screenshot of the challenge I did
 
 ![Screenshot](./product-preview-card-screenhoot.png)
+![Screenshot](./Mobile-new-screenshot.png)
 
 ## Welcome! 👋
 
