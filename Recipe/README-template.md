@@ -13,8 +13,8 @@ Build an omelette recipe with HTML and CSS
 - HTML
 - CSS
 
-![](New-screenshot.jpg)
-![](Mobile-new-shot.png)
+![](./New-screenshot.jpg)
+![](./Mobile-new-screenshot.png)
 
 ### Links
 

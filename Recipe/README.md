@@ -1,6 +1,7 @@
 # Frontend Mentor - Recipe page
 
-![Design preview for the Recipe page coding challenge](./preview.jpg)
+![Screenshot Desktop](./New-screenshot.jpg)
+![Sceenshot Mobile](./Mobile-new-screenshot.png)
 
 ## Welcome! 👋
 

@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Screenshot](./product-preview-card-screenhoot.png)
 
 ## Welcome! 👋
 
@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
+ Your challenge is to build out this recipe page and get it looking as close to the design as possible
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
