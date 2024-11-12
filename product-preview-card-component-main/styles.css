@@ -160,6 +160,7 @@ body {
     font-family: "Montserrat", sans-serif;
     font-weight: 550;
     padding-left: 2rem;
+
     color: hsl(228, 12%, 48%);
 }
 
@@ -179,7 +180,8 @@ body {
 }
 
 .chanel-perfume-information .cart-svg {
-    padding-right: 0.5rem;
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
 }
 
 
@@ -187,8 +189,8 @@ body {
 
   .container {
     flex-direction: column;
-    padding-left: 0.8rem;
-    padding-right: 0.8em;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .chanel-perfume-image .desktop-image {
