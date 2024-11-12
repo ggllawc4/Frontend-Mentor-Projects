@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component
 
+## Screenshot of the challenge I did
+
 ![Screenshot](./product-preview-card-screenhoot.png)
 
 ## Welcome! 👋
